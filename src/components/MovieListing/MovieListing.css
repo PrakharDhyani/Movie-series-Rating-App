@@ -1,0 +1,22 @@
+@import "../../common/colors.css";
+
+
+
+.movieList, .showList{
+    margin: 20px 20px;
+}
+
+.movieList h2, .showList h2{
+    color: var(--font-seconday-color);
+    margin-bottom: 10px;
+    font-weight: 400;
+}
+
+
+/* .movieContainer{
+    display:grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-gap: 25px;
+}
+ */
+
